@@ -1,0 +1,42 @@
+
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* Debugged CSS  */
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+@media (max-width:768px) {
+
+html .header .logo,html   .header-top__inner, html  .header-top .social-links {
+    display: inline-block;
+    float: none;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+
+html .yamm {
+  display: block;
+    float: left;
+    margin-top: 4px;
+    position: absolute;
+
+}
+    
+    .yamm .navbar-collapse{
+     background: #fff none repeat scroll 0 0;  
+    margin-bottom: 20px;
+    margin-left: 0;
+    min-width: 315px;
+    width: 100%;
+    }
+    
+
+    
+    
+    .yamm .navbar-toggle {
+    float: none !important;
+}
+
+
+}
